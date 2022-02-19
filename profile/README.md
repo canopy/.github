@@ -1,1 +1,7 @@
-[Understory](https://github.com/canopy/understory) gives individuals of all skill levels their own personal website while [IndieWeb](https://indieweb.org) tech is leveraged to connect the sites in a decentralized manner.
+## Canopy Desktop App
+
+Mac | Windows | Linux
+
+## Liana Browser Extension
+
+Chrome | Safari | Firefox | .xpi
