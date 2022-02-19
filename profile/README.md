@@ -2,12 +2,12 @@
 
 **Desktop**: Windows | Mac OS | Linux
 
-**Cloud**: Linux
+**Cloud**: <s>Linux</s>
 
-**Raspberry Pi**: Raspberry Pi OS
+**Raspberry Pi**: <s>Raspberry Pi OS</s>
 
 ### Connect to your website with Liana
 
-**Browser**: Chrome | Safari | Firefox
+**Browser**: <s>Chrome</s> | <s>Safari</s> | Firefox
 
-**Mobile**: iOS | Android
+**Mobile**: <s>iOS</s> | <s>Android</s>
