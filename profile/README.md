@@ -1,4 +1,4 @@
-### Host your website with Canopy
+### Host your website
 
 **Desktop**: <s>[Windows](https://canopy.help/canopy.exe)</s> | <s>[Mac OS](https://canopy.help/canopy.dmg)</s> | <s>[Linux](https://canopy.help/canopy.bin)</s>
 
@@ -6,7 +6,7 @@
 
 **Raspberry Pi**: <s>Raspberry Pi OS</s>
 
-### Connect to your website with Liana
+### Connect to your website
 
 **Browser**: <s>Chrome</s> | <s>Safari</s> | <s>[Firefox](https://addons.mozilla.org/en-US/firefox/addon/liana)</s>
 
