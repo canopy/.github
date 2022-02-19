@@ -1,7 +1,15 @@
-#### Canopy Desktop App
+### Canopy
+
+#### Desktop
 
 Windows | Mac | Linux
 
-#### Liana Browser Extension
+#### Cloud
 
-Chrome | Safari | Firefox | .xpi
+Linux
+
+### Liana
+
+#### Browser Extension
+
+Chrome | Safari | Firefox
