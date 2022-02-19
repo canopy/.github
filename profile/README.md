@@ -1,4 +1,4 @@
-### Canopy
+### Host your website with Canopy
 
 **Desktop**: Windows | Mac OS | Linux
 
@@ -6,7 +6,7 @@
 
 **Raspberry Pi**: Raspberry Pi OS
 
-### Liana
+### Connect to your website with Liana
 
 **Browser**: Chrome | Safari | Firefox
 
