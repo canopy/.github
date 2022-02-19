@@ -1,15 +1,13 @@
 ### Canopy
 
-#### Desktop
+**Desktop**: Windows | Mac OS | Linux
 
-Windows | Mac | Linux
+**Cloud**: Linux
 
-#### Cloud
-
-Linux
+**Raspberry Pi**: Raspberry Pi OS
 
 ### Liana
 
-#### Browser Extension
+**Browser**: Chrome | Safari | Firefox
 
-Chrome | Safari | Firefox
+**Mobile**: iOS | Android
