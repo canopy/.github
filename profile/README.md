@@ -1,6 +1,6 @@
 ### Host your website
 
-**Desktop**: <s>[Windows](https://canopy.help/canopy.exe)</s> | <s>[Mac OS](https://canopy.help/canopy.dmg)</s> | <s>[Linux](https://canopy.help/canopy.bin)</s>
+**Desktop**: <s>[Windows](https://canopy.guide/canopy.exe)</s> | <s>[Mac OS](https://canopy.guide/canopy.dmg)</s> | <s>[Linux](https://canopy.guide/canopy.bin)</s>
 
 **Cloud**: <s>Linux</s>
 
